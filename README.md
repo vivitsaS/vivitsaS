@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivitsaS
-- 👀 I’m interested in ML/AI
-- 💞️ I’m looking to collaborate on predictive science projects
+- I’m interested in ML/AI
+- I’m looking to collaborate on predictive science projects
 
 <!---
 vivitsaS/vivitsaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
